@@ -1,6 +1,6 @@
 # social-distance-detector
 
-![Social_distance](https://github.com/datamagic2020/social-distance-detector/blob/master/social%20distance%20design.png)
+
 
 This code will help you to do social distance detectioni in this COVID-19 situation at your premise. This is very basic code, feel free to checkout and do any improvisations.
 
@@ -15,5 +15,4 @@ If you want to do more improvisation then you can calculate socail distance thre
   5- Run this code  : python SocialDistanceDetector.py	
   
   
-  ![alt text](https://github.com/datamagic2020/social-distance-detector/blob/master/Social_Distance_Detection.jpg?raw=true)
   

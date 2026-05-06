@@ -1,4 +1,4 @@
-# social-distance-detector
+# social-distancing- Project
 
 
 
@@ -12,7 +12,7 @@ If you want to do more improvisation then you can calculate socail distance thre
   2- install all depedencies -> pip install -r requirements.txt  	</br>
   3- Link to Download yolov3.weights for COCO dataset - https://pjreddie.com/darknet/yolo/  	</br>
   4- Put the downloaded yolov3.weights in your project folder  	</br>
-  5- Run this code  : python SocialDistanceDetector.py	
+  5- Run this code 
   
   
   
